@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bsi_mhd" target="blank"><img src="https://img.shields.io/twitter/follow/bsi_mhd?logo=twitter&style=for-the-badge" alt="bsi_mhd" /></a> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://basimohd.github.io/personal-website/](https://basimohd.github.io/personal-website/)
 
